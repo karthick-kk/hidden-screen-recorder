@@ -14,3 +14,5 @@ screen recorder based on ffmpeg that runs in background - on demand/scheduled cr
   50 10 * * 2 pkill systemd-rcs
   ```
   
+## Demo
+![Demo](.demo/rcs.gif)
